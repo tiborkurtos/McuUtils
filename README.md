@@ -64,7 +64,7 @@ The library uses the following libraries:
 
 ## Authors
 
-* **Tubor Kurtos** - *Initial work* - [tiborkurtos](https://github.com/tiborkurtos)
+* **Tibor Kurtos** - *Initial work* - [tiborkurtos](https://github.com/tiborkurtos)
 
 See also the list of [contributors](https://github.com/tiborkurtos/McuUtils/contributors) who participated in this project.
 
