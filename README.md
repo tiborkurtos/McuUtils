@@ -59,8 +59,8 @@ void eprSave()
 ### Prerequisites
 
 The library uses the following libraries:
-Prescaler https://github.com/fschaefer/Prescaler
-LowPower https://github.com/rocketscream/Low-Power
+* Prescaler https://github.com/fschaefer/Prescaler
+* LowPower https://github.com/rocketscream/Low-Power
 
 ## Authors
 
